@@ -1,3 +1,4 @@
+### About
 The questions and datasets in this assignment were provided by the University of Michigan.  Solutions to the questions are my own.
 
 The assignment involves finding how the population of a city correlates with the performance of said city's sports team. Performance is defined by the team's win-loss ratio, which is the number of wins over the number of wins plus the number of losses.  
